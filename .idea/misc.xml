@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_ban_ben.xml" value="0.2857142857142857" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_menu.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_regist.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_update_actity.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_update_item.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/activity_xiang_qing.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/fragment_dongtai.xml" value="0.13601823708206687" />
+        <entry key="..\:/workspace/ITBookDemo-springboot-android-master/ItBook/app/src/main/res/layout/fragment_wode.xml" value="0.13601823708206687" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
